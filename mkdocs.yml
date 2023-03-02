@@ -15,7 +15,7 @@ theme:
   features:
     - navigation.footer
     - content.code.copy
-    - content.code.annotation
+    - content.code.py.annotate
     - search.suggest
     - search.highlight
     - toc.follow
@@ -48,12 +48,8 @@ extra:
 
   nav:
     - Home: 'index.md'
+    - 01._Python_Variables : '01_variables_in_python.ipynb'
 
-  plugins:
-    - mkdocs-jupyter:
-        include_source: True
-    - search
-    - social
 
   #Set Language to English
   language: en
