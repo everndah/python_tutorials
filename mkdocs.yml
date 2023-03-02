@@ -1,0 +1,73 @@
+site_name: The Data Armory
+site_description: Insightful Python Fundamentals for Beginners
+
+theme:
+  name: material
+
+  # Pallet Color
+  palette:
+    primary: black
+
+  # Site Font
+  font:
+    text: Roboto
+
+  features:
+    - navigation.footer
+    - content.code.copy
+    - content.code.annotation
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+extra:
+# Social Links  
+  social:
+    - icon: fontawesome/brands/youtube 
+      link: https://www.youtube.com/@thedataarmory
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/TheDataArmory
+
+  markdown_extensions:
+    - pymdownx.highlight:
+      anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - admonition
+    - pymdownx.arithmatex:
+      generic: true
+    - footnotes
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.mark
+    - attr_list
+    - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+  nav:
+    - Home: 'index.md'
+
+  plugins:
+    - mkdocs-jupyter:
+        include_source: True
+    - search
+    - social
+
+  #Set Language to English
+  language: en
+
+
+
+
+  
+
+#Footer Copyright Info
+copyright: Copyright &copy; 2023 The Data Armory
+
+
+
+
+
+
