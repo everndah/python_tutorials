@@ -1,10 +1,11 @@
 # Course Outline
 
-* What is python?
-* Why python?
-* The Downside Of Python.
-* What is python used for?
-* Why python is good for Data Science?
+## What is python?
+* Here we will learn what is Python, why Python is used, the downside of Python, and why Python is good for Data Science.
 
-* What is the definition of python variables?
+## Python variables.
 
+* In this course, we will learn about Variables in Python, including their definition, rules and guidelines for naming, Python keywords and built-in functions. By the end of the course, you will be able to define and use Variables, understand the importance of rules and guidelines for naming variables, and adhere to these rules and guidelines in your own programming.
+
+
+                              **Other sections coming up**
