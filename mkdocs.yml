@@ -1,6 +1,9 @@
 site_name: The Data Armory
 site_description: Insightful Python Fundamentals for Beginners
 
+repo_url: https://github.com/everndah/python_tutorials
+repo_name: everndah/python_tutorials
+
 theme:
   name: material
 
