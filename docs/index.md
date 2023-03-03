@@ -1,4 +1,4 @@
-# Outline
+# Course Outline
 
 * What is python?
 * Why python?
