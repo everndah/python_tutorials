@@ -22,11 +22,13 @@ theme:
     - search.suggest
     - search.highlight
     - toc.follow
+    - navigation.instant
+    - navigation.top
 
 extra:
-# Social Links  
+  # Social Links
   social:
-    - icon: fontawesome/brands/youtube 
+    - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@thedataarmory
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/TheDataArmory
@@ -45,28 +47,15 @@ extra:
     - pymdownx.mark
     - attr_list
     - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-
+      #emoji_index: !!python/name:materialx.emoji.twemoji
+      #emoji_generator: !!python/name:materialx.emoji.to_svg
 
   nav:
-    - Home: 'index.md'
-    - 01._Python_Variables : '01_variables_in_python.ipynb'
-
+    - Home: "index.md"
+    - 01._Python_Variables: "01_variables_in_python.ipynb"
 
   #Set Language to English
   language: en
 
-
-
-
-  
-
 #Footer Copyright Info
 copyright: Copyright &copy; 2023 The Data Armory
-
-
-
-
-
-

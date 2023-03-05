@@ -1,11 +1,15 @@
 # Course Outline
 
 ## What is python?
-* Here we will learn what is Python, why Python is used, the downside of Python, and why Python is good for Data Science.
+
+- In this chapter, we will learn what is Python, why Python is used, the downside of Python, and why Python is good for Data Science.
 
 ## Python variables.
 
-* In this course, we will learn about Variables in Python, including their definition, rules and guidelines for naming, Python keywords and built-in functions. By the end of the course, you will be able to define and use Variables, understand the importance of rules and guidelines for naming variables, and adhere to these rules and guidelines in your own programming.
+- In this chapter, we will learn about Variables in Python, including their definition, rules and guidelines for naming, Python keywords and built-in functions. By the end of the chapter, you will be able to define and use Variables, understand the importance of rules and guidelines for naming variables, and adhere to these rules and guidelines in your own programming.
 
+## Data Types
+
+- In this chapter, we will define what a data type is and examine the common, simple data types in Python, as well as the categories of these data types. By the end, you will be familiar with the simple data types and their respective categories, and have an idea of the types of operations that can be done on values.
 
                               **Other sections coming up**
