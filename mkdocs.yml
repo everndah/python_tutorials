@@ -51,17 +51,15 @@ extra:
       #emoji_generator: !!python/name:materialx.emoji.to_svg
   
 plugins:
- - mkdocs-jupyter:
-    include_source: True
-
-  nav:
+  - mkdocs-jupyter:
+      ignore_h1_titles: True
+nav:
     - Home: "index.md"
-    - 03._Python_Strings: 05_python_strings.ipynb
+    - 00. What is Python: 00_what_is_python.ipynb
+    - 01. Python Variables: 01_variables_in_python.ipynb
+    - 02. Data Types: 02_python_data_types.ipynb
+    - 03. Python Comments:  03_python_comments.ipynb
+    - 04. Python Strings: 04_python_strings.ipynb
   
-  
-
-  #Set Language to English
-  language: en
-
 #Footer Copyright Info
 copyright: Copyright &copy; 2023 The Data Armory
