@@ -49,10 +49,16 @@ extra:
     - pymdownx.emoji:
       #emoji_index: !!python/name:materialx.emoji.twemoji
       #emoji_generator: !!python/name:materialx.emoji.to_svg
+  
+plugins:
+ - mkdocs-jupyter:
+    include_source: True
 
   nav:
     - Home: "index.md"
-    - 01._Python_Variables: "01_variables_in_python.ipynb"
+    - 03._Python_Strings: 05_python_strings.ipynb
+  
+  
 
   #Set Language to English
   language: en
