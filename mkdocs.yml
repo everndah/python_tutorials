@@ -49,11 +49,11 @@ extra:
     - pymdownx.emoji:
       #emoji_index: !!python/name:materialx.emoji.twemoji
       #emoji_generator: !!python/name:materialx.emoji.to_svg
-
+      
 plugins:
-  - mkdocs-jupyter:
-      include_source: True
-      ignore_h1_titles: True
+ - mkdocs-jupyter:
+    include_source: True
+    ignore_h1_titles: True
 nav:
   - Home: "index.md"
   - 00. What is Python: 00_what_is_python.ipynb
