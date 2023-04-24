@@ -1,10 +1,10 @@
-# Course Outline
+<h1 style="text-align: center;">Course Outline</h1> 
 
-## [What is python](https://everndah.github.io/python_tutorials/00_what_is_python/)?
+## [What is Python](https://everndah.github.io/python_tutorials/00_what_is_python/)?
 
 - In this chapter, we will learn what is Python, why Python is used, the downside of Python, and why Python is good for Data Science.
 
-## [Python variables](https://everndah.github.io/python_tutorials/01_variables_in_python/).
+## [Python Variables](https://everndah.github.io/python_tutorials/01_variables_in_python/).
 
 - In this chapter, we will learn about Variables in Python, including their definition, rules and guidelines for naming, Python keywords and built-in functions. By the end of the chapter, you will be able to define and use Variables, understand the importance of rules and guidelines for naming variables, and adhere to these rules and guidelines in your own programming.
 
